@@ -4,6 +4,9 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+import javax.swing.JOptionPane;
+
+
 public class HospitalHomepage extends JFrame implements ActionListener {
 
     JLabel nameLabel, addressLabel, phoneLabel;
